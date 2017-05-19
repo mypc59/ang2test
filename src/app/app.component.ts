@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  name = "CK";
+
+  words:Array<string>=[
+    '哦，听说楼主很帅？',
+    '是吗，没见过啊',
+    '真的真的，那天去软件园看到的'
+  ];
 }
