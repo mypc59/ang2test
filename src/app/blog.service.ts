@@ -8,7 +8,6 @@ constructor() {
     this.name = "sfdsf";
 }
 
-  
 
 
 }
