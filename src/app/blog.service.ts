@@ -5,7 +5,7 @@ export class BlogService {
   private name:string = "";
 
 constructor() {   
-    this.name = "sfdsf";
+    this.name = "ck";
 }
 
 
