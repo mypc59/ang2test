@@ -2,10 +2,13 @@ import { Injectable } from '@angular/core';
 
 @Injectable()
 export class BlogService {
+  private name:string = "";
 
-constructor() { }
+constructor() {   
+    this.name = "sfdsf";
+}
 
-
+  
 
 
 }
